@@ -1,0 +1,12 @@
+{
+    "extends": ["eslint:recommended", "plugin:prettier/recommended"],
+    "plugins": ["prettier"],
+    "parserOptions": {},
+    "env": {"browser": true},
+    "globals": {},
+    "rules": {
+        "arrow-parens": ["error", "always"],
+        "prettier/prettier": "error",
+        "no-console": 0
+    }
+}

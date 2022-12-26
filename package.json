@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "lint": "eslint paizaCorD/*.js",
+    "fix": "eslint --fix paizaCorD/*.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1"
+  }
+}
