@@ -3,14 +3,7 @@
 
 s = list(input())
 
-leet = {"A": "4",
-"E":"3",
-"G":"6",
-"I":"1",
-"O":"0",
-"S":"5",
-"Z":"2"
-}
+leet = {"A": "4", "E": "3", "G": "6", "I": "1", "O": "0", "S": "5", "Z": "2"}
 
 for i, c in enumerate(s):
     if c in leet.keys():

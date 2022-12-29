@@ -9,7 +9,7 @@ for i in range(m):
     fare = int(input())
     if point >= fare:
         point -= fare
-    
+
     else:
         rest -= fare
         point += int(fare * 0.1)
