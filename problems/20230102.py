@@ -1,5 +1,5 @@
 # C013: 嫌いな数字
-# https://paiza.jp/works/challenges/46/ready
+# https://paiza.jp/challenges/46/ready
 
 hate = int(input())
 n = int(input())
